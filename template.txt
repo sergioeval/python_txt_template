@@ -1,0 +1,9 @@
+Here is a text file 
+That I want to use as a Template
+
+Here is another variable
+{my_data}
+
+Here is a Variable
+{user_question}
+
